@@ -5,4 +5,14 @@
 *.JPEG
 *.png
 *.PNG
+*.out
 video_frames.csv
+altyn_const_notfixed_lndm.csv
+altyn_frames_last_1mln_sep_norm.csv
+altyn_frames_last_1mln.csv
+altyn_frames_podium_const_sep_norm.csv
+altyn_video_frames_orig_fps_crops_podium_const_all.csv
+altyn_video_frames_orig_fps_crops_podium_const.csv
+altyn_video_frames_orig_fps_crops_podium.csv
+altyn_video_frames_orig_fps_podium.csv
+video_frames_const.csv
